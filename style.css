@@ -12,17 +12,18 @@ section{
   padding: 100px 200px;
 }
 
-.main{
+.main {
   position: relative;
   width: 100%;
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url('https://i.ibb.co/yF7sLjKR/image.png') no-repeat center center;
+  background: url(images/image.png) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
 }
+
 
 .main .content{
   max-width: 800px;
