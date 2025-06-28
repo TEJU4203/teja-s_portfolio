@@ -18,7 +18,7 @@ section{
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background: url(images/image.png)no-repeat;
+  background: <a href="https://ibb.co/b5Ddp9Y3"><img src="https://i.ibb.co/yF7sLjKR/image.png" alt="image" border="0"></a>;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
